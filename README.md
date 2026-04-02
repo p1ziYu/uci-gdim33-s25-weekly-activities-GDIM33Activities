@@ -1,10 +1,12 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
+https://docs.google.com/drawings/d/18QZMUmAEDOXxFEZg6l8oseEZ3hDrvqqy3OsG4evlDlY/edit?usp=sharing
 
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
+1. My game genres are mostly anime gacha games, and I am more close to the reality side, with some of running events
+2. Haoyi Zhang: We both play Arknights IP game, CS2, HellDivers2
+   
+3. Elijah, Pay to Gabe Newell, watch ice skating anime, in ICS33 too, but we have totally different game taste.
 
 
 ### Activity 2
