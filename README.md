@@ -12,7 +12,7 @@ Pengcheng Qi: Play partial gacha game, play games that released on steam
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+<img width="1045" height="597" alt="Screenshot 2026-04-01 at 7 42 21 PM" src="https://github.com/user-attachments/assets/cb6d433b-9dc8-4d76-bd7c-13ebab9093e4" />
 
 
 ## W2
