@@ -19,3 +19,14 @@ Pengcheng Qi: Play partial gacha game, play games that released on steam
 Write your W2 Devlog here.
 
 Continue adding additional headers below this one for future weeks and future activities.
+
+
+## W3
+### Activity 1
+
+### Activity 2
+
+1. To use it within the whole scene, and let me to find where the heck my problem is for a long time
+2. Really helped me to know where my clickNpcEventName is stucked at.
+3. Yes, my visual novel can have it after no moving on mouse for 10 sec and give player a immersive experience
+4. Yes, the game state can help my visual novel to change scene of like save and load.
