@@ -24,8 +24,8 @@ Continue adding additional headers below this one for future weeks and future ac
 ## W3
 ### Activity 1
 <img width="994" height="591" alt="Screenshot 2026-04-15 at 7 17 06 PM" src="https://github.com/user-attachments/assets/70dfcf16-b117-4679-b16c-2b9a32d7371b" />
-### Activity 2
 
+### Activity 2
 1. To use it within the whole scene, and let me to find where the heck my problem is for a long time
 2. Really helped me to know where my clickNpcEventName is stucked at.
 3. Yes, my visual novel can have it after no moving on mouse for 10 sec and give player a immersive experience
