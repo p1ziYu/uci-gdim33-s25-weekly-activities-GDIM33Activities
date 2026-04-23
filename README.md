@@ -45,3 +45,7 @@ Team: Haoyi Zhang, Yaokun Wan, Zhengfan Yang, Pengcheng Qi, Allen Gu
 3. Character should have some motions
 4. Restart button
 
+### Activity 2
+1. Yes, I have finished the code, and only need to add scriptdialogue node to add more dialogue
+2. If more than 4 the button will be out of the canvas
+3. Double check and update some new nodes and function made by users

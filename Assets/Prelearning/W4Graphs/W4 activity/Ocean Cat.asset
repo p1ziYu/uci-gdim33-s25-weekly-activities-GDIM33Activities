@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d87814806be98455aa06d85e22ad29d6, type: 3}
+  m_Name: Ocean Cat
+  m_EditorClassIdentifier: 
+  Line: Not a human
+  ReplyOptions:
+  - line: 259
+    nextNode: {fileID: 11400000, guid: 13e1af5d02f01354aba40aaab387b79d, type: 2}
+  - line: Song Lun
+    nextNode: {fileID: 11400000, guid: dfc9ae231cd712a458abae9bee43b51c, type: 2}
+  - line: DaWei
+    nextNode: {fileID: 11400000, guid: 61a4dccc853d9fa4eabefc14ea22aaab, type: 2}
+  - line: Cherry
+    nextNode: {fileID: 11400000, guid: 3003b6f1ab2622a4db520ab05e6b48d2, type: 2}
