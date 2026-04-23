@@ -30,3 +30,18 @@ Continue adding additional headers below this one for future weeks and future ac
 2. Really helped me to know where my clickNpcEventName is stucked at.
 3. Yes, my visual novel can have it after no moving on mouse for 10 sec and give player a immersive experience
 4. Yes, the game state can help my visual novel to change scene of like save and load.
+
+
+## W3
+### Activity 1 
+1. My playable part is to click and make decision
+2. Finding out if a feature is fun or not
+
+Team: Haoyi Zhang, Yaokun Wan, Zhengfan Yang, Pengcheng Qi, Allen Gu
+
+### Feedback: 
+1. Show out word by word
+2. Character to slide in or out as they speak
+3. Character should have some motions
+4. Restart button
+
