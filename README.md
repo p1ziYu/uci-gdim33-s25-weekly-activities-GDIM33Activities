@@ -49,3 +49,23 @@ Team: Haoyi Zhang, Yaokun Wan, Zhengfan Yang, Pengcheng Qi, Allen Gu
 1. Yes, I have finished the code, and only need to add scriptdialogue node to add more dialogue
 2. If more than 4 the button will be out of the canvas
 3. Double check and update some new nodes and function made by users
+
+
+## W5
+### Activity 1
+Add a main page for my visual novel
+1. Create a new scene
+    1. Create a UI-Canvas inside
+    2. Add UI-Image with the Honkai Star Rail background with fully covered Canvas on Rect Transform
+    3. Add UI-Image the main player which is the Trashcan in to it and place to the correct place
+2. Add a button in it
+    1. Create a UI-Button-TextMeshPro and move to the center by Rect Transform
+    2. Give it a better size and appearance with the Text(TMP) under it
+    3. Create the Script Machine for Button
+3. Bind the button with scene change
+    1. Make a new Graph for it
+    2. Start with On Button Click Event
+    3. Then connect with Load Scene with scene name "Belobog"
+
+### Activity 2
+I build a new scene for my main page, with hsr loading screen as background, and my character on the side of the page, with a start button on the left that can direct me to the belobog scene.
