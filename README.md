@@ -81,3 +81,9 @@ I build a new scene for my main page, with hsr loading screen as background, and
 2. Shake when booming
 3. Add some transition between scenes
 4. Seperate self-introduction with each NPC. Maybe add it when press start and to the level selection page(not created yet)
+
+### Activity 2
+1. Because all value are less than 1, multiply make them smaller and closer to 0 which is black
+2. More, since alpha is also less than 1, will make it closer to 0 and more transparant
+3. From the mesh
+4. Yes
