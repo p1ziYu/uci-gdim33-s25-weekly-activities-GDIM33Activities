@@ -69,3 +69,15 @@ Add a main page for my visual novel
 
 ### Activity 2
 I build a new scene for my main page, with hsr loading screen as background, and my character on the side of the page, with a start button on the left that can direct me to the belobog scene.
+
+## W6
+### Activity 1
+#### Goal
+1. In Belobog, add a button to restart, and add the background music and sound effect. Create a new main page scene that with a video background and music and a button to start.
+2. [Itch page](https://p1ziyu.itch.io/playtest-2)
+3. Music volume, receive feedback on how to make it more like a visual novel and find out how will player act to the effect
+#### Playtest Note:
+1. Move name out of the dialog box, and this playtester encourages me to add Chinese version
+2. Shake when booming
+3. Add some transition between scenes
+4. Seperate self-introduction with each NPC. Maybe add it when press start and to the level selection page(not created yet)
