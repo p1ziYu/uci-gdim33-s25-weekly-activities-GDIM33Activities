@@ -87,3 +87,13 @@ I build a new scene for my main page, with hsr loading screen as background, and
 2. More, since alpha is also less than 1, will make it closer to 0 and more transparant
 3. From the mesh
 4. Yes
+
+## W7
+### Activity 1
+1. The Mesh assets in the Shiba model, you’ll see that the detail for the Vertices lists several types of data. Each vertex of this mesh contains a Position, Normal, Tangent, Color, and UV.
+2. They are interpolated across the adjacent.
+3. The resolution of vertex colors are based on the number of vertices, the resolution of texture is much higher than the vertex density. Can be used on rendering objects that are not important like background.
+4. Yes, the direction of the normal is reversed.
+5. UV Coordinates, visualizing UVs as color to instantly spot texture stretching, broken seams
+6. The normal vector is in the opposite direction, it needs to multiply by -1
+7. The black in the Noise will become visible.
